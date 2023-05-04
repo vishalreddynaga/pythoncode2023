@@ -1,0 +1,4 @@
+MRN|Lname|Fname|EpicMRN
+123|John|Smith|123123
+456|Cena|R|456456
+789|Brock|R|789789
