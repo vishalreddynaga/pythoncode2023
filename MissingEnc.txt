@@ -1,0 +1,4 @@
+MRN|Lname|Fname
+123|John|Smith
+456|Rock|R
+789|Brock|R
