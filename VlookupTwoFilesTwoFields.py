@@ -16,7 +16,7 @@ with open(r"/Users/vishal/Documents/pythoncode2023/GivenMissingEnc.txt") as File
         SplitMRN =FileReadMRNLineByLine.split("|")
         # print(SplitMRN[0])
         ListMRN.append(SplitMRN[0])
-
+        
         if ListENC == ListMRN:
             print(FileReadMRNLineByLine)
  
