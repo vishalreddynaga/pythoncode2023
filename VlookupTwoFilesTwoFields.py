@@ -1,9 +1,10 @@
 
 ListENC = []
 
+
 with open("MissingEnc.txt") as FileENC:
     FileReadENC = FileENC.readlines()
-    print(FileReadENC)
+    # print(FileReadENC)
     for FileReadENCLineByLine in FileReadENC:
         SplitENC = FileReadENCLineByLine.split("|")
         ListENC.append(SplitENC[0])

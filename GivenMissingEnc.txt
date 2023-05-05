@@ -1,4 +1,5 @@
-MRN|Lname|Fname|EpicMRN
-123|John|Smith|123123
-456|Cena|R|456456
-789|Brock|R|789789
+EpicMRN|Lname|Fname|LegMRN
+123|John|Smith|321
+456|Cena|R|254
+789|Brock|R|987
+888|Temo|T|1111
