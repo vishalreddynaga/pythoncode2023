@@ -1,4 +1,4 @@
-MRN|Lname|Fname
-123|John|Smith
-452|Rock|R
-789|Brock|R
+MRN|Lname|Fname|Path|EpicMRN
+123|John|Smith|path|321
+452|Rock|R|path|254
+789|Brock|R|path|987
