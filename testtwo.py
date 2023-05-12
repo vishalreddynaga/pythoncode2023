@@ -15,13 +15,13 @@
 import pandas as pd
    
 
-def testt():
-  print("testtCute")
+# def testt():
+#   print("testtCute")
 
 
 lists = []  
 mystring = " "
-
+i = 0
 
 d = {'col1':["DMD|smith","DYSF|john", "hbibg|bib"], 'col2':[33,44,66]}
 df = pd.DataFrame(d)
@@ -33,8 +33,9 @@ for index, row in df.iterrows():
 
 
 for x in lists:
+  i = i + 1
   mystring += ' ' + x+ "\n"
-print(mystring)
+  print(mystring)
 
 # FileRead = mystring.split("|")
 
