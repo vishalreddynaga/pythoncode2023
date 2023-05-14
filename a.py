@@ -6,7 +6,6 @@ import pandas as pd
 # Mary|40
 # John|30
 
-
 Map = {}
 
 data = {
