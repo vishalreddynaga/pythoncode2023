@@ -1,4 +1,4 @@
-BusinessEntityID|PersonType|NameStyle|Title|FirstName|MiddleName|LastName|Suffix|EmailPromotion|AdditionalContactInfo
+a|PersonType|NameStyle|Title|FirstName|MiddleName|LastName|Suffix|EmailPromotion|AdditionalContactInfo
 1|EM|0|NULL|Ken|J|Sánchez|NULL|0|NULL
 2|EM|0|NULL|Terri|Lee|Duffy|NULL|1|NULL
 3|EM|0|NULL|Roberto|NULL|Tamburello|NULL|0|NULL

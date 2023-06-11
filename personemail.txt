@@ -1,4 +1,4 @@
-BusinessEntityID|EmailAddressID|EmailAddress
+a|EmailAddressID|EmailAddress
 2272|1467|aaron1@adventure-works.com
 5495|4690|aaron10@adventure-works.com
 5496|4691|aaron11@adventure-works.com
