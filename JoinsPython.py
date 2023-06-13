@@ -15,7 +15,7 @@ df22 = pd.read_csv('/Users/vishal/Documents/pythoncode2023/personemail.txt' , se
 # BusinessEntityID_str_len = len(BusinessEntityID_str)
 
 # FirstName_str_len = len(FirstName_str)
-# FirstName_str_set = set(FirstName_str)
+# FirstName_str_set = set(FirstName_str)jhi
 df11['a']=df11['a'].map(str)
 df22['a']=df22['a'].map(str)
 # print(df11.merge(df22, how='left', on='a'))
