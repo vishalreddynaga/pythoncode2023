@@ -5,6 +5,7 @@ import pandas as pd
 # Sally|50
 # Mary|40
 # John|30
+#j
 
 Map = {}
 
